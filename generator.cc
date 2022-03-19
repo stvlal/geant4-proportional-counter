@@ -32,7 +32,7 @@ void MyPrimaryGenerator::GeneratePrimaries(G4Event *anEvent)
         G4ThreeVector(cosTheta,sinTheta*sin(phi),sinTheta*cos(phi)));
 
     fParticleGun->SetParticlePosition(pos);
-    fParticleGun->SetParticleEnergy(40.*keV);
+    //fParticleGun->SetParticleEnergy(40.*keV);
     fParticleGun->SetParticleDefinition(particle);
 
     fParticleGun->GeneratePrimaryVertex(anEvent);

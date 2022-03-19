@@ -1,1 +1,59 @@
+/gun/energy 2. keV
+/run/beamOn 1000000
+
+/gun/energy 5. keV
+/run/beamOn 1000000
+
+/gun/energy 8. keV
+/run/beamOn 1000000
+
+/gun/energy 11. keV
+/run/beamOn 1000000
+
+/gun/energy 14. keV
+/run/beamOn 1000000
+
+/gun/energy 17. keV
+/run/beamOn 1000000
+
+/gun/energy 20. keV
+/run/beamOn 1000000
+
+/gun/energy 23. keV
+/run/beamOn 1000000
+
+/gun/energy 26. keV
+/run/beamOn 1000000
+
+/gun/energy 29. keV
+/run/beamOn 1000000
+
+/gun/energy 32. keV
+/run/beamOn 1000000
+
+/gun/energy 35. keV
+/run/beamOn 1000000
+
+/gun/energy 38. keV
+/run/beamOn 1000000
+
+/gun/energy 41. keV
+/run/beamOn 1000000
+
+/gun/energy 44. keV
+/run/beamOn 1000000
+
+/gun/energy 47. keV
+/run/beamOn 1000000
+
+/gun/energy 50. keV
+/run/beamOn 1000000
+
+/gun/energy 53. keV
+/run/beamOn 1000000
+
+/gun/energy 56. keV
+/run/beamOn 1000000
+
+/gun/energy 59. keV
 /run/beamOn 1000000
